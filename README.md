@@ -1,4 +1,3 @@
-# OCR
 # OCR Project
 
 This project provides Optical Character Recognition (OCR) functionality for extracting text from images. It includes several Python scripts for image processing and text extraction.
